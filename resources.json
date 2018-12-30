@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Android",
+        "documentation": "https://developer.android.com/docs/",
+        "resouces": [
+            {
+                "source": "Udacity",
+                "description": "Video tutorials provided by Google.",
+                "status": "Free and Paid",
+                "url": "https://in.udacity.com/courses/android"
+            },
+            {
+                "source": "Udemy",
+                "description": "Tutorials provided by instructors of all over the world.",
+                "status": "Free and Paid",
+                "url": "https://www.udemy.com/courses/search/?src=ukw&q=android"
+            }
+        ]
+    }
+]
