@@ -2,18 +2,21 @@
     {
         "title": "Android",
         "documentation": "https://developer.android.com/docs/",
+        "imageUrl": "https://www.android.com/static/2016/img/share/andy-lg.png",
         "resouces": [
             {
                 "source": "Udacity",
                 "description": "Video tutorials provided by Google.",
                 "status": "Free and Paid",
-                "url": "https://in.udacity.com/courses/android"
+                "url": "https://in.udacity.com/courses/android",
+                "imgUrl": "https://d20vrrgs8k4bvw.cloudfront.net/images/open-graph/udacity.png"
             },
             {
                 "source": "Udemy",
                 "description": "Tutorials provided by instructors of all over the world.",
                 "status": "Free and Paid",
-                "url": "https://www.udemy.com/courses/search/?src=ukw&q=android"
+                "url": "https://www.udemy.com/courses/search/?src=ukw&q=android",
+                "imgUrl": "https://www.udemy.com/staticx/udemy/images/v6/default-meta-image.png"
             }
         ]
     }
